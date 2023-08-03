@@ -1,0 +1,22 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.content>:nth-child(1){
+    width: 90vw;
+}
+.content>:nth-child(2){
+    width: 90vw;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+    color: #683B2B;
+    cursor: pointer;
+
+}

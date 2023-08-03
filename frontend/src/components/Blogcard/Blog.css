@@ -1,0 +1,18 @@
+.blog{
+    border-radius: 5px;
+    background: linear-gradient(#DED1BD , #FAF6F2);
+}
+
+.blog-head{
+    background: #683B2B;
+    color: white;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding: 0 0.5rem 0 0.5rem;
+}
+
+.blog-body{
+    height: 2rem;
+    padding: 0.5rem;
+}
